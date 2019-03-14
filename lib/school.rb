@@ -31,15 +31,15 @@ class School
   end 
 
 
-    # @roster[grade] => []
+# @roster[grade] => []
 
-#     hash["new_key"] = []
+# hash["new_key"] = []
 # hash["new_key"] << "new_value_for_value_array"
 #
 
-    # hash[key] => value
+# hash[key] => value
 # hash
 #  => {"new_key"=>["new_value_for_value_array"]}
-    # @roster[grade] << name
+# @roster[grade] << name
 
 end
