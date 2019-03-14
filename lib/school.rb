@@ -27,10 +27,10 @@ class School
     roster.each do |grade, stu|
     sorting[grade] = stu.sort
     end 
-    sorting
+    sorting 
   end 
 
-
+#git gud 
 # @roster[grade] => []
 
 # hash["new_key"] = []
